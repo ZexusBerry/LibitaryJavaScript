@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name          All Items Unlocked Library
 // @version       0.2
-// @require       https://greasyfork.org/scripts/423602-msgpack/code/msgpack.js
 // @license       MIT
 // ==/UserScript==
 
